@@ -1,3 +1,3 @@
-Python version of the Excel CVD urban green space Markov model by Nesterovich (2026). This code was created with help of Claude AI. The Master's thesis with a detailed technical report can be found here: https://lup.lub.lu.se/student-papers/record/9236862.
+Python version of the Excel CVD urban green space Markov model by Nesterovich (2026). This code was created with help of Claude AI and tested in Goggle Colab. The Master's thesis with a detailed technical report can be found here: https://lup.lub.lu.se/student-papers/record/9236862.
 
 A 6-state Markov cohort model (healthy H / acute MI (AMI) / acute stroke (AS) / post-MI (PMI) / post-stroke (PS) / Dead) run for 16 age cohorts, by urban green space (UGS) perceived sensory dimensions (PSD) scenarios. It captures the impact of UGS improvements on CVD through physical activity. Societal costs, QALYs, and potential cost-effectiveness are the results of the current model.
