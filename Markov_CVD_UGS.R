@@ -1,7 +1,7 @@
 # R version of the Excel CVD urban green space Markov model by Nesterovich (2026). This code was created with help of Claude AI. The Master's thesis with a detailed technical report can be found here: https://lup.lub.lu.se/student-papers/record/923686.
 
 # A 6-state Markov cohort model (healthy **H** / acute MI (**AMI**) / acute stroke (**AS**) /
-post-MI (**PMI**) / post-stroke (**PS**) / **D**ead) run for 16 age cohorts, by urban green space (UGS) perceived sensory dimensions (PSD) scenarios. It captures the impact of UGS improvements on CVD through physical activity. Societal costs, QALYs, and potential cost-effectiveness are the results of the current model.
+# post-MI (**PMI**) / post-stroke (**PS**) / **D**ead) run for 16 age cohorts, by urban green space (UGS) perceived sensory dimensions (PSD) scenarios. It captures the impact of UGS improvements on CVD through physical activity. Societal costs, QALYs, and potential cost-effectiveness are the results of the current model.
 """
 # 6 states: H / AMI / AS / PMI / PS / D, 16 age cohorts, PSD scenario analysis,
 # costs, QALYs and the maximum affordable intervention cost.
