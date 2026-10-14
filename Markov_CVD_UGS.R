@@ -3,7 +3,7 @@
 # costs, QALYs and the maximum affordable intervention cost.
 
 # 1. DATA & GENERAL SETUP --------------------------------------------------------
-df_tp <- read.csv("C:/Users/37256/OneDrive/Desktop/Health economics and CEIE/Thesis/Markov_tp_CVD.csv")
+df_tp <- read.csv("Markov_tp_CVD.csv")
 head(df_tp)
 
 cycle_length <- 1                        # one year
