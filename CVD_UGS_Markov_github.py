@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 """
 Markov CVD cost-effectiveness model
 
